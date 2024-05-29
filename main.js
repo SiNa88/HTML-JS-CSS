@@ -1,3 +1,10 @@
+/*//alert("Hello world!");
+console.log("Hello world!");
+console.warn("This is a warning!");
+console.error("This is an error!");
+
+document.getElementById("content").innerHTML="Lets update the text"*/
+
 const myform= document.querySelector("#my-form");
 const nameInput= document.querySelector("#name");
 const emailInput= document.querySelector("#email");
